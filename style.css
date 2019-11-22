@@ -8,7 +8,8 @@ body, html {
 .cd-logo,
 .kitchen-equipment,
 .cake-ingredients,
-.mixing-bowl {
+.mixing-bowl
+.oven-cooking {
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
@@ -48,6 +49,10 @@ h3 {
 
 .mixing-bowl {
   background-image: url("mixer.jpg")
+}
+
+.oven-cooking {
+  background-image: url("oven.jpg")
 }
 
 .caption {
